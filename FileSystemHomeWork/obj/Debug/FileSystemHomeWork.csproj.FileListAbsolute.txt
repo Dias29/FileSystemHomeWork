@@ -1,0 +1,6 @@
+d:\users10\asus\documents\visual studio 2015\Projects\FileSystemHomeWork\FileSystemHomeWork\bin\Debug\FileSystemHomeWork.exe.config
+d:\users10\asus\documents\visual studio 2015\Projects\FileSystemHomeWork\FileSystemHomeWork\bin\Debug\FileSystemHomeWork.exe
+d:\users10\asus\documents\visual studio 2015\Projects\FileSystemHomeWork\FileSystemHomeWork\bin\Debug\FileSystemHomeWork.pdb
+d:\users10\asus\documents\visual studio 2015\Projects\FileSystemHomeWork\FileSystemHomeWork\obj\Debug\FileSystemHomeWork.csprojResolveAssemblyReference.cache
+d:\users10\asus\documents\visual studio 2015\Projects\FileSystemHomeWork\FileSystemHomeWork\obj\Debug\FileSystemHomeWork.exe
+d:\users10\asus\documents\visual studio 2015\Projects\FileSystemHomeWork\FileSystemHomeWork\obj\Debug\FileSystemHomeWork.pdb
